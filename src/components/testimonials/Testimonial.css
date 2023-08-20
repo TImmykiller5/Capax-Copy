@@ -1,0 +1,22 @@
+#img-testimonial-1{
+    left: 45vw;
+    bottom: -10vw;
+    transform: rotate(54deg);
+    width: 33vw;
+    min-width: 400px;
+}
+
+#img-testimonial-2{
+    right: -142px;
+    bottom: -140px;
+    width: 33vw;
+    min-width: 400px;
+}
+
+.testimonial{
+
+}
+
+@media (max-width:12) {
+    
+}

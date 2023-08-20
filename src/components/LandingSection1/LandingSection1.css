@@ -1,0 +1,121 @@
+.image-bottom{
+    position: absolute;
+    bottom: 0px;
+    opacity: 0.13;
+}
+
+.ellipse1{
+    left: -7%;
+    bottom: 90px;
+    background: #0038FF;
+}
+
+.ellipse2{
+    left: 30%;
+    bottom: -20px;
+    background: #F00;
+}
+
+.ellipse3{
+    left: 60%;
+    bottom: 40px;
+
+    background: #FFC700;
+}
+
+.ellipse4{
+    left: 66%;
+    bottom: 0px;
+    background: #F90;
+}
+
+#img-bot-1{
+    filter: saturate(3);
+    transform: rotate(-8.8deg);
+    left: -120px;
+    bottom: -100px;
+    width: 400px;
+    min-width: 200px;
+
+}
+/* #img-bot-2{
+    filter: saturate(2);
+    left: 38vw;
+    bottom: -10vw;
+    transform: rotate(45deg);
+    width: 33vw;
+    min-width: 200px;
+
+} */
+#img-bot-3{
+    /* filter: saturate(2); */
+    right: -180px;
+    bottom: -160px;
+    transform: rotate(45deg);
+    width: 400px;
+    min-width: 200px;
+}
+
+.landing-inner{
+    margin-top: 13.4vh;
+}
+
+.backdrop-container{
+    background-image: linear-gradient(to right, #9cafff, #0038FF , #F00, #FFC700, #F90, rgb(250, 204, 134));
+    opacity: 0.6;
+}
+
+.backdrop-container-inner{
+    height: 8px;
+}
+@media (min-width: 850px) { 
+    #img-bot-1{
+        filter: saturate(3);
+        transform: rotate(-8.8deg);
+        left: -20px;
+        bottom: -50px;
+        width: 500px;
+        /* min-width: 200px; */
+    
+    }
+    
+    #img-bot-3{
+        /* filter: saturate(2); */
+        right: -100px;
+        bottom: -100px;
+        transform: rotate(45deg);
+        width: 500px;
+        /* min-width: 200px; */
+    }
+}
+@media (min-width: 1024px) { 
+    #img-bot-1{
+        filter: saturate(3);
+        transform: rotate(-8.8deg);
+        left: 3.4vw;
+        bottom: -7vw;
+        width: 33vw;
+        min-width: 200px;
+    
+    }
+    #img-bot-2{
+        /* filter: saturate(2); */
+        left: 38vw;
+        bottom: -10vw;
+        transform: rotate(45deg);
+        width: 33vw;
+        min-width: 200px;
+    
+    }
+    #img-bot-3{
+        /* filter: saturate(2); */
+        left: 71.25%;
+        bottom: -15vw;
+        transform: rotate(45deg);
+        width: 33vw;
+        min-width: 200px;
+    }
+
+    
+}
+

@@ -1,0 +1,53 @@
+{
+    "services": [
+      {
+        "image": "/images/IT_support.png",
+        "title": "IT Support",
+        "sub": "Your Dedicated IT Partner",
+        "text": "When technical issues arise, rest assured that our skilled IT support team will be there to quickly resolve them. We offer prompt assistance and proactive maintenance to minimize downtime and ensure uninterrupted operations. From troubleshooting to system upgrades, we've got your covered."
+      },
+      {
+        "image": "/images/Cloud_Engineering.jpg",
+        "title": "Cloud Engineering",
+        "sub": "Harness the Power of Cloud",
+        "text": "Unlock the full potential of the cloud with our advanced cloud engineering services. We help you migrate your data and applications seamlessly, providing scalability, flexibility, and enhanced security. Maximize your costs with our tailored cloud solutions."
+      },
+      {
+        "image": "/images/Human_Resources_Development.png",
+        "title": "Human Resources Development",
+        "sub": "Empower your Team",
+        "text": "Investing in your most valuable asset, your workforce, is essential for long-term success. Our human resources development programs offer comprehensive training and development solutions tailored to your organization's needs. From technical skills to leadership development, we help nurture talent and boost productivity."
+      },
+      {
+        "image": "/images/Product_development.png",
+        "title": "Product Development",
+        "sub": "Transform Ideas into Reality",
+        "text": "Innovation drives growth. Our experienced product development team collaborates with you to transform your ideas into exceptional products that meet market demands. From conceptualization to design, development, and testing, we provide end-to-end product development solutions to bring your vision to life."
+      },
+      {
+        "image": "/images/Software_development.png",
+        "title": "Software Development",
+        "sub": "Tailored for your Business",
+        "text": "Stay ahead of the competition with our custom software development services. We develop scalable, secure, and intuitive software applications that streamline your business processes, enhance efficiency, and improve customer experiences. Let us build the perfect software solution for your unique requirements."
+      },
+      {
+        "image": "/images/Hardware_Supplies.png",
+        "title": "Hardware Supplies & Development",
+        "sub": "Reliable IT Infrastructure",
+        "text": "From procuring high-quality hardware to providing reliable infrastructure solutions, we ensure that your IT environment operates at peak performance. Our hardware experts deliver cost-effective solutions, combining cutting-edge technology with seamless integration."
+      },
+      {
+        "image": "/images/Digital_Marketing.png",
+        "title": "Digital Marketing",
+        "sub": "Expand Your Online Presence",
+        "text": "In today's digital world, a strong online presence is crucial for business success. Our digital marketing experts create comprehensive strategies tailored to your target audience, driving brand visibility, attracting leads, and boosting conversions. Let us elevate your digital marketing efforts and propel your business forward."
+      },
+      {
+        "image": "/images/IT_Infrastructure.png",
+        "title": "IT Infrastructure Management",
+        "sub": "Efficiency and Reliability",
+        "text": "Managing complex IT infrastructure requires expertise and meticulous attention to detail. Our dedicated team ensures your systems are secure, optimized, and always available. We handle network management, data backup, disaster recovery, and more, allowing you to focus on your core business objectives."
+      }
+    ]
+  }
+  

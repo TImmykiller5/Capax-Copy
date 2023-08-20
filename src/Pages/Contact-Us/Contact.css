@@ -1,0 +1,6 @@
+#contact-banner{
+    background-image: url('/public/images/bottom.png'), url('/public/images/bottom.png');
+    background-repeat: no-repeat, no-repeat;
+    background-size: 200px;
+    background-position: 10px 10px , 100% ;
+}
